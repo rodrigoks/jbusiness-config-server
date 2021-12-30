@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>br.com.jbusiness</groupId>
-	<artifactId>jbusiness-config-server-1</artifactId>
+	<artifactId>jbusiness-config-server</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>jbusiness-config-server-1</name>
+	<name>jbusiness-config-server</name>
 	<description>Jbusiness Config Service</description>
 	<properties>
 		<java.version>11</java.version>
